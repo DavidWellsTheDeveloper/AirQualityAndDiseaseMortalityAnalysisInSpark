@@ -6,15 +6,15 @@
 ---
 ### Data Selection
 
----
+
 ### Data Cleaning 
 
----
+
 ### Data Transformation
 
----
+
 ### Analysis
 
----
+
 ### Interpretation and Evaluation
 
