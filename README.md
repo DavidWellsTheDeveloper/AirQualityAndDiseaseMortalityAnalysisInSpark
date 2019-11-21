@@ -18,7 +18,7 @@
 
 ### Data Cleaning 
 
-The 
+The Air Quality datasets were seperate zipped csv files for every year between 1980 and 2014. There is a script for extracting all of the air quality data [here](./Preprocessing/airQualityExtracter.py)
 
 ### Data Transformation
 
