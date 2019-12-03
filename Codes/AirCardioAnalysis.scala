@@ -117,6 +117,7 @@ object AirCardioAnalysis {
     val fraction = numPositives/traindatacount
     println(traindatacount)
     
+    //try random forest training by balancing the unbalanced data
     val decrease = trainingData.filter(trainingData("label") === 0)
     val increase = trainingData.filter(trainingData("label") === 1)
     val sampleratio = increase.count().toDouble / trainingData.count().toDouble
